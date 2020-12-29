@@ -1,7 +1,7 @@
 server:
  port: 3344
 
-version: 1
+version: 2.3
 
 spring:
   application:
